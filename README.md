@@ -1,4 +1,8 @@
+<div align="center">
+  
 ![Generation Brasil](generation%20brasil.png)
+
+</div>
 
 Este repostório contém as atividades práticas de SQL realizadas ao longo do bootcamp
 
